@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+.active
+{
+    border: .2rem solid blue;
+    padding: .5rem;
+    box-shadow: 0 0 1rem rgb(169, 169, 255);
+}
+@tailwind utilities;
